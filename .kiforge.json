@@ -1,0 +1,24 @@
+{
+    "output_dir": "kiforge",
+    "exports": {
+        "export_gerbers": false,
+        "export_drills": false,
+        "export_pos": false,
+        "export_bom": false,
+        "export_ibom": false,
+        "export_sch_pdf": false,
+        "export_step": false,
+        "export_3d": false,
+        "export_svg": true,
+        "export_print_pdf": true,
+        "format_jlc": false,
+        "generate_cd": true
+    },
+    "export_params": {
+        "pos_side": "front",
+        "pos_smd_only": true,
+        "pos_exclude_dnp": true,
+        "step_subst_models": true,
+        "bom_include_mfr_mpn": false
+    }
+}

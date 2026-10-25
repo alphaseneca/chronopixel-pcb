@@ -41,3 +41,24 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# KiCad & KiForge patterns added by KiForge
+kiforge/
+*.sch-bak
+fp-lib-table
+sym-lib-table
+fabrication-toolkit-options.json
+*.pos
+*.svg
+*.step
+*.pdf
+*.swp
+*.png
+*.jpeg
+*.kicad_mod
+*.kicad_sym
+*.dxf
+*.DXF
+bom/
+production/
+.history/
